@@ -8,7 +8,7 @@ Domingas: Solicitação, objeto.
 
 Camilly: Solicitação, Acesso.
 
-Petrus: Curso turma, Objeto, pc.
+Petrus: Curso turma, Objeto, pc.   
 
 
 
